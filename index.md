@@ -1,4 +1,4 @@
 ---
 layout: default  
-title: "今天我有在学习吗？"
+title: "今日已学乎？"
 ---
