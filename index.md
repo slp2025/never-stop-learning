@@ -1,3 +1,2 @@
-layout: home  
-title: "信のblog" 
----
+"今天我有在学习吗？"
+
