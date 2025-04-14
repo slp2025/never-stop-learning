@@ -1,1 +1,2 @@
-日可少学，不可不学。
+layout: home  
+title: "信のblog" 
