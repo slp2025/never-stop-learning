@@ -3,4 +3,6 @@ author: "信"
 theme: minima
 markdown: kramdown
 description: "学习使你我快乐。"
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:title
+baseurl: "/never-stop-learning"  # 仓库名称
+url: "https://slp2025.github.io"
