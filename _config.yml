@@ -4,3 +4,4 @@ theme: minima
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 description: "学习使你我快乐。"
+permalink: /blog/:year/:month/:day/:title
